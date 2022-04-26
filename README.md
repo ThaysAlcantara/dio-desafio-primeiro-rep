@@ -1,2 +1,2 @@
 # Primeiro repositório
-Desafio DIO
+Desafio DIO, criação do primeiro repositório no GitHub
